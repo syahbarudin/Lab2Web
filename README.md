@@ -1,3 +1,45 @@
+_**Soal**_
+
+1. Lakukan eksperiment dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada _CSS Cheat Sheet_ yang diberikan pada file terpisah dari module ini
+2. apa perbedaan pendeklarasian _CSS_ elemen **hi** {...} dengan **#intro h1**? Berikan penjelasannya
+3. apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama, Deklarasi manakan yang akan ditampilkan pada browser?         Berikan penjelasan dan contohnya
+4. pada sebuah elemen HTML tedapat ID dan Class, apabila masing masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+   Berikan penjelasan dan contohnya (<p id="paragraf-1" class="text-paragraf".>)
+
+**Jawab**
+
+1. A. Menggunakan border
+
+  Tampilan VS Code
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/26ed49ad-3b54-4913-a62e-eb0d36a659c1)
+
+  Tampilan Website
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/de165cf5-94a1-4144-8c6d-b84b4e8da4ac)
+
+  B. Menggunakan background
+
+  Tampilan VS Code
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/499b9155-9d96-460e-90ed-cc6f1f036074)
+
+  Tampilan Website
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/dbce1f17-6437-495d-96a3-c024222c1aff)
+
+C. Menggunakan Hyperlink
+
+  Tampilan VS Code
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/22618c3e-6498-40ae-aefb-a96c4000816b)
+
+  Tampilan Website
+
+  ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/4fb165f1-7603-4030-a854-01220a0d4d94)
+
+D
+
 _**Praktikum**_
 
 1. Membuat dokumen HTML
