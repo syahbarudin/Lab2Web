@@ -1,6 +1,6 @@
 _**Praktikum**_
 
-**1. Membuat dokumen HTML**
+1. Membuat dokumen HTML
   
    Tampilan VS Code
 
@@ -10,7 +10,7 @@ _**Praktikum**_
 
    ![image](https://github.com/syahbarudin/Lab2Web/assets/146621192/8b629700-091a-44c7-9208-826d37ae3f58)
 
-**2. Mendeklarasikan CSS internal**
+2. Mendeklarasikan CSS internal
     
     Tampilan VS Code
     
@@ -20,7 +20,7 @@ _**Praktikum**_
 
     ![image](https://github.com/syahbarudin/Lab2Web/assets/146621192/d60549e5-f633-41c9-9bd3-74691841e5da)
 
-**3. Menambahkan Inline CSS**
+3. Menambahkan Inline CSS
     
     Tampilan VS Code
     
@@ -30,7 +30,7 @@ _**Praktikum**_
 
     ![image](https://github.com/syahbarudin/Lab2Web/assets/146621192/d278a6b9-1253-466c-a695-d9236e33ae19)
     
-**4. Membuat CSS eksternal**
+4. Membuat CSS eksternal
     
     Tampilan VS Code
     
@@ -40,7 +40,7 @@ _**Praktikum**_
 
     ![image](https://github.com/syahbarudin/Lab2Web/assets/146621192/d16244f5-c588-4b9e-98ca-9be53bfc7d2d)
 
-**5. Menambahkan CSS Selector**
+5. Menambahkan CSS Selector
     
     Tampilan VS Code
 
