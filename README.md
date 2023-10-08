@@ -38,7 +38,19 @@ C. Menggunakan Hyperlink
 
   ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/4fb165f1-7603-4030-a854-01220a0d4d94)
 
-D
+2.
+
+3. maka yang akan ditampilkan terlebih dahulu adalah inline css, karena inline merupakan kode css yang ditulis sebagai atribut dalam html
+
+   Tampilan VS Code
+
+   ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/5242f481-b2c8-41d4-9061-720ad513fb2e)
+
+   Tampilan Website
+
+   ![gambar](https://github.com/syahbarudin/Lab2Web/assets/146621192/58ec5a10-4de7-4c7a-a5eb-63759649bd8d)
+
+4. 
 
 _**Praktikum**_
 
